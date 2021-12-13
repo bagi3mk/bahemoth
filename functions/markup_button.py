@@ -42,7 +42,7 @@ def start_markup(chat_id: int, bot_username: str):
             [
                 InlineKeyboardButton(gm(chat_id, "helpbutton"), callback_data="cbhelp"),
                 InlineKeyboardButton(
-                    gm(chat_id, "maintainer"), url="https://telegra.ph/B-12-11"
+                    gm(chat_id, "maintainer"), url="https://telegra.ph/Haqqında-12-13-2"
                 ),
             ],
             [
