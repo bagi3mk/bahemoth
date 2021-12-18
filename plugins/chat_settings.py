@@ -27,16 +27,15 @@ async def new_member_(client: Client, message: Message):
         if member.id == bot_id:
             ChatDB().add_chat(message.chat.id)
             return await message.reply(
-                "Hi, english is my default language.\n"
-                "make me as admin in here with all permissions except anonymous admin\n"
-                "btw, thanks for inviting me to here, to use me, please use /userbotjoin command first.\n"
-                "and for changing language, tap /lang to see all language that supported for me, "
-                "don't forget to subscribe our channel.",
+                "Salam Dostum Azərbaycan dili mənim standart dilimdir. \n"
+"Anonim yetkidən başqa adminetmə və başqa bütün icazələrlə məni burada admin et\n" 
+"Məni bura dəvət etdiyiniz üçün təşəkkür edirəm, məndən istifadə etmək üçün əvvəlcə /userbotjoin əmrindən istifadə edin.\n" 
+"və dili dəyişmək üçün mənim üçün dəstəklənən bütün dilləri görmək üçün /lang üzərinə klikləyin, kanalımıza abunə olmağı unutmayın.",
                 reply_markup=MarkupKeyboard(
                     [
                         [
-                            ButtonKeyboard("Channel", url=config.CHANNEL_LINK),
-                            ButtonKeyboard("Support", url=config.GROUP_LINK),
+                            ButtonKeyboard("📣 Dəstək Kanalı", url=config.CHANNEL_LINK),
+                            ButtonKeyboard("👥 Dəstək Qrupu", url=config.GROUP_LINK),
                         ],
                         [
                             ButtonKeyboard(
