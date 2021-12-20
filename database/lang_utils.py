@@ -11,7 +11,7 @@ kode = []
 langs = {}
 lang_flags = {
     "en": f"{emoji.FLAG_AZERBAİJAN} Azərbaycan",
-    "id": f"{emoji.FLAG_INDONESIA} Indonesia",
+    "id": f"{emoji.FLAG_RUSSİA} русский",
     "grl": f"{emoji.FLAG_INDONESIA} Girl",
     "jv": f"{emoji.FLAG_INDONESIA} Javanese",
     "su": f"{emoji.FLAG_INDONESIA} Sundanese",
