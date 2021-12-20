@@ -41,7 +41,7 @@
     "success_delete_chat": "**Bu sohbet veritabanından silindi**",
     "success_delete_chats": "**Tüm sohbetleri veritabanından silme başarısı**",
     "lang_already_used": "**Daha önce kullanılan dil**",
-    "lang_changed": "**Lang change to english**",
+    "lang_changed": "**Dil başarıyla türkçeye çevirildi**",
     "quality_already_used": "**Bu sohbet zaten {} kalitesini kullanıyor",
     "quality_changed": "**Bu sohbette kalite {} olarak değiştirildi**",
     "only_admin_already_set": "**Bu sohbet zaten yalnızca yönetici olarak ayarlandı, komutları kullanabilir**",
