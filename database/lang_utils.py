@@ -10,14 +10,14 @@ code = ""
 kode = []
 langs = {}
 lang_flags = {
-    "en": f"{emoji.FLAG_AZERBAIJAN} Azərbaycan",
+    "en": f"{emoji.FLAG_TURKEY} Türkçe",
     "id": f"{emoji.FLAG_RUSSIA} Pусский",
     "grl": f"{emoji.FLAG_INDONESIA} Girl",
     "jv": f"{emoji.FLAG_INDONESIA} Javanese",
     "su": f"{emoji.FLAG_INDONESIA} Sundanese",
     "pt": f"{emoji.FLAG_UNITED_STATES} English",
     "ta": f"{emoji.FLAG_INDIA} Tamil",
-    "hi": f"{emoji.FLAG_TURKEY} Türkçe",
+    "hi": f"{emoji.FLAG_AZERBAIJAN} Azərbaycan",
     "mi": f"{emoji.FLAG_INDIA} Marathi",
 }
 db = ChatDB()
