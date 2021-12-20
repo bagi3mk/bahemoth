@@ -71,7 +71,7 @@ async def pm_start(_, message: Message):
                             [
                                 InlineKeyboardButton(
                                     f"{gm(chat_id, 'commands')}",
-                                    url="https://telegra.ph/ƏMRLƏR-12-11",
+                                    url="https://telegra.ph/əmrlər--commands--komandy--Komutlar-12-20",
                                 )
                             ]
                         ]
