@@ -24,8 +24,8 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 <h3>Telegram</h3>
 <ul>
-    <a href="https://t.me/SpotifyBots"><img alt="Spotify Channel" src="https://img.shields.io/badge/SolidProject-Channel-blue.svg?logo=telegram"></a> <br/>
-    <a href="https://t.me/SpotifyBotss"><img alt="Spotify Support" src="https://img.shields.io/badge/SolidProject-Support-blue.svg?logo=telegram"></a> <br/>
+    <a href="https://t.me/SpotifyBots"><img alt="Spotify Channel" src="https://img.shields.io/badge/SpotifyBots-Channel-blue.svg?logo=telegram"></a> <br/>
+    <a href="https://t.me/SpotifyBotss"><img alt="Spotify Support" src="https://img.shields.io/badge/SpotifyBots-Support-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
 <h3>Deploy to Heroku </h3>
